@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\bin\Debug\WinAppHexagon.exe.config
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\bin\Debug\WinAppHexagon.exe
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\bin\Debug\WinAppHexagon.pdb
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\obj\Debug\WinAppPruebaGrupo4.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\obj\Debug\WinAppPruebaGrupo4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\obj\Debug\WinAppHexagon.frmFigure.resources
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\obj\Debug\WinAppHexagon.Properties.Resources.resources
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\obj\Debug\WinAppPruebaGrupo4.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\obj\Debug\WinAppPruebaGrupo4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\obj\Debug\WinAppHexagon.exe
+C:\Users\Asus\Documents\ESPE\5TO  SEMESTRE\COMPUTACIÓN GRÁFICA\WinAppPruebaGrupo4\WinAppHexagon\obj\Debug\WinAppHexagon.pdb
