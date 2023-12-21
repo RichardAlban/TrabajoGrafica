@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\bin\Debug\GDI.exe.config
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\bin\Debug\GDI.exe
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\bin\Debug\GDI.pdb
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\obj\Debug\WinAppFigura.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\obj\Debug\WinAppFigura.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\obj\Debug\GDI.frmFigura.resources
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\obj\Debug\WinAppFigura.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\obj\Debug\WinAppFigura.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\obj\Debug\GDI.exe
+C:\Users\USUARIO\Desktop\Trabajo_Domingo\WinAppHexagon\GDI\obj\Debug\GDI.pdb

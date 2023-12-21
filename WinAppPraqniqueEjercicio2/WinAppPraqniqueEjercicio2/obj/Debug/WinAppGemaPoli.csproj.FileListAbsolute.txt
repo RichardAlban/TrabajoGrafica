@@ -1,0 +1,33 @@
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\bin\Debug\GDI.exe.config
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\bin\Debug\GDI.exe
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\bin\Debug\GDI.pdb
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\WinAppGemaPoli.csproj.AssemblyReference.cache
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\WinAppGemaPoli.csproj.SuggestedBindingRedirects.cache
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDI.frmGemaPoligono.resources
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\WinAppGemaPoli.csproj.GenerateResource.cache
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\WinAppGemaPoli.csproj.CoreCompileInputs.cache
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDI.exe
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDI.pdb
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\bin\Debug\GDI.exe.config
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\bin\Debug\GDI.exe
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\bin\Debug\GDI.pdb
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\obj\Debug\WinAppGemaPoli.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\obj\Debug\WinAppGemaPoli.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\obj\Debug\GDI.frmGemaPoligono.resources
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\obj\Debug\WinAppGemaPoli.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\obj\Debug\WinAppGemaPoli.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\obj\Debug\GDI.exe
+C:\Users\david\OneDrive\Escritorio\WinAppGemaPoli\WinAppGemaPoli\GDI\obj\Debug\GDI.pdb
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\bin\Debug\GDI.exe.config
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\bin\Debug\GDI.exe
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\bin\Debug\GDI.pdb
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\obj\Debug\WinAppGemaPoli.csproj.AssemblyReference.cache
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\obj\Debug\WinAppGemaPoli.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\obj\Debug\WinAppGemaPoli.csproj.GenerateResource.cache
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\obj\Debug\WinAppGemaPoli.csproj.CoreCompileInputs.cache
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\obj\Debug\GDI.exe
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\obj\Debug\GDI.pdb
+C:\Users\david\Universidad\Graficas\Taller\WinAppGemaPoli\WinAppHexagon\GDI\obj\Debug\GDI.frmHexagono.resources

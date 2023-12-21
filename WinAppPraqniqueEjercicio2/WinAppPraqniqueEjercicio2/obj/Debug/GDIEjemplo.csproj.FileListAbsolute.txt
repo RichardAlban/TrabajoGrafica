@@ -1,0 +1,22 @@
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\bin\Debug\GDI.exe.config
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\bin\Debug\GDI.exe
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\bin\Debug\GDI.pdb
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\obj\Debug\GDIEjemplo.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\obj\Debug\GDIEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\obj\Debug\GDI.frmRectangle.resources
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\obj\Debug\GDIEjemplo.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\obj\Debug\GDIEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\obj\Debug\GDI.exe
+C:\Users\david\OneDrive\Documentos\Universidad\Computación Gráfica\Clases\Unidad 1\Circunferencia\GraficaCircunferencia\GDI\GDI\obj\Debug\GDI.pdb
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\bin\Debug\GDI.exe.config
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\bin\Debug\GDI.exe
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\bin\Debug\GDI.pdb
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDIEjemplo.csproj.AssemblyReference.cache
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDIEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDI.frmRectangle.resources
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDIEjemplo.csproj.GenerateResource.cache
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDIEjemplo.csproj.CoreCompileInputs.cache
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDI.exe
+C:\David\Universidad\Universidad\4 Semestre\Computación Gráfica - 9753\Proyecto\WinAppGemaPoli\GDI\obj\Debug\GDI.pdb
