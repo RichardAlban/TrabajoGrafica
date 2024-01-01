@@ -1,0 +1,16 @@
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\bin\Debug\net7.0-windows\BeePanel.exe
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\bin\Debug\net7.0-windows\BeePanel.deps.json
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\bin\Debug\net7.0-windows\BeePanel.runtimeconfig.json
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\bin\Debug\net7.0-windows\BeePanel.dll
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\bin\Debug\net7.0-windows\BeePanel.pdb
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\BeePanel.Form1.resources
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\BeePanel.csproj.GenerateResource.cache
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\BeePanel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\BeePanel.AssemblyInfoInputs.cache
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\BeePanel.AssemblyInfo.cs
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\BeePanel.csproj.CoreCompileInputs.cache
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\BeePanel.dll
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\refint\BeePanel.dll
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\BeePanel.pdb
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\BeePanel.genruntimeconfig.cache
+D:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\obj\Debug\net7.0-windows\ref\BeePanel.dll
