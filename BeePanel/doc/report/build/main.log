@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.31)  30 DEC 2023 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.31)  3 JAN 2024 22:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Documents/University/Nivel 5/Computacion Grafica/Primer parcial/Trabajos grupales/BeePanel/doc/report/src/main.tex"
-(d:/Documents/University/Nivel 5/Computacion Grafica/Primer parcial/Trabajos grupales/BeePanel/doc/report/src/main.tex
+**"d:/Documents/University/Nivel 5/Computacion Grafica/Primer parcial/Trabajos grupales/TrabajoGrafica/BeePanel/doc/report/src/main.tex"
+(d:/Documents/University/Nivel 5/Computacion Grafica/Primer parcial/Trabajos grupales/TrabajoGrafica/BeePanel/doc/report/src/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -643,30 +643,30 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\doc\report\build\main.aux
+ (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\BeePanel\doc\report\build\main.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -702,10 +702,10 @@ LaTeX Font Info:    ... okay on input line 34.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
-Package hyperref Info: Link coloring OFF on input line 34.
-(d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\doc\report\build\main.out) (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\doc\report\build\main.out)
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+Package hyperref Info: Link coloring OFF on input line 48.
+(d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\BeePanel\doc\report\build\main.out) (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\BeePanel\doc\report\build\main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -749,142 +749,146 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\doc\report\build\main.bbl)
-Package biblatex Info: Reference section=0 on input line 34.
-Package biblatex Info: Reference segment=0 on input line 34.
- [1
-
-{C:/Users/alexa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<./../img//bee_panel_example.png, id=72, 686.565pt x 722.7pt>
-File: ./../img//bee_panel_example.png Graphic file (type png)
-<use ./../img//bee_panel_example.png>
-Package pdftex.def Info: ./../img//bee_panel_example.png  used on input line 46.
-(pdftex.def)             Requested size: 137.31056pt x 144.53743pt.
-<./../img//hexagon.png, id=76, 520.19344pt x 481.8pt>
-File: ./../img//hexagon.png Graphic file (type png)
-<use ./../img//hexagon.png>
-Package pdftex.def Info: ./../img//hexagon.png  used on input line 57.
-(pdftex.def)             Requested size: 234.08487pt x 216.80798pt.
-<./../img//espe.png, id=77, 803.0pt x 301.125pt>
+ (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\BeePanel\doc\report\build\main.bbl)
+Package biblatex Info: Reference section=0 on input line 48.
+Package biblatex Info: Reference segment=0 on input line 48.
+<./../img//espe.png, id=63, 803.0pt x 301.125pt>
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 68.
+Package pdftex.def Info: ./../img//espe.png  used on input line 53.
+(pdftex.def)             Requested size: 240.90186pt x 90.33818pt.
+ [1
+
+{C:/Users/alexa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./../img//espe.png>]
+<./../img//bee_panel_example.png, id=77, 686.565pt x 722.7pt>
+File: ./../img//bee_panel_example.png Graphic file (type png)
+<use ./../img//bee_panel_example.png>
+Package pdftex.def Info: ./../img//bee_panel_example.png  used on input line 60.
+(pdftex.def)             Requested size: 137.31056pt x 144.53743pt.
+<./../img//hexagon.png, id=80, 520.19344pt x 481.8pt>
+File: ./../img//hexagon.png Graphic file (type png)
+<use ./../img//hexagon.png>
+Package pdftex.def Info: ./../img//hexagon.png  used on input line 71.
+(pdftex.def)             Requested size: 234.08487pt x 216.80798pt.
+File: ./../img//espe.png Graphic file (type png)
+<use ./../img//espe.png>
+Package pdftex.def Info: ./../img//espe.png  used on input line 82.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
-<./../img//ciencias_de_computacion.jpg, id=78, 903.375pt x 903.375pt>
+<./../img//ciencias_de_computacion.jpg, id=81, 903.375pt x 903.375pt>
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 68.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 82.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.68             \end{align*}
-                              [1 <./../img//espe.png> <./../img//ciencias_de_computacion.jpg> <./../img//bee_panel_example.png> <./../img//hexagon.png>]
-<./../img//external_triangle_rectangle.png, id=92, 144.54pt x 199.49532pt>
+l.82             \end{align*}
+                              [1 <./../img//ciencias_de_computacion.jpg> <./../img//bee_panel_example.png> <./../img//hexagon.png>]
+<./../img//external_triangle_rectangle.png, id=93, 144.54pt x 199.49532pt>
 File: ./../img//external_triangle_rectangle.png Graphic file (type png)
 <use ./../img//external_triangle_rectangle.png>
-Package pdftex.def Info: ./../img//external_triangle_rectangle.png  used on input line 74.
+Package pdftex.def Info: ./../img//external_triangle_rectangle.png  used on input line 88.
 (pdftex.def)             Requested size: 65.04239pt x 89.77205pt.
-<./../img//bee_panel.png, id=94, 472.76625pt x 518.6878pt>
+<./../img//bee_panel.png, id=95, 472.76625pt x 518.6878pt>
 File: ./../img//bee_panel.png Graphic file (type png)
 <use ./../img//bee_panel.png>
-Package pdftex.def Info: ./../img//bee_panel.png  used on input line 114.
+Package pdftex.def Info: ./../img//bee_panel.png  used on input line 128.
 (pdftex.def)             Requested size: 212.74284pt x 233.40735pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 118.
+Package pdftex.def Info: ./../img//espe.png  used on input line 132.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 118.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 132.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [2 <./../img//external_triangle_rectangle.png>]
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 187.
+Package pdftex.def Info: ./../img//espe.png  used on input line 201.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 187.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 201.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [3 <./../img//bee_panel.png>]
-<./../img//compute_apothem.png, id=124, 794.97pt x 146.5475pt>
+<./../img//compute_apothem.png, id=125, 794.97pt x 146.5475pt>
 File: ./../img//compute_apothem.png Graphic file (type png)
 <use ./../img//compute_apothem.png>
-Package pdftex.def Info: ./../img//compute_apothem.png  used on input line 224.
+Package pdftex.def Info: ./../img//compute_apothem.png  used on input line 238.
 (pdftex.def)             Requested size: 455.24411pt x 83.92424pt.
-<./../img//hexagon_constructor.png, id=125, 1401.235pt x 582.175pt>
+<./../img//hexagon_constructor.png, id=126, 1401.235pt x 582.175pt>
 File: ./../img//hexagon_constructor.png Graphic file (type png)
 <use ./../img//hexagon_constructor.png>
-Package pdftex.def Info: ./../img//hexagon_constructor.png  used on input line 231.
+Package pdftex.def Info: ./../img//hexagon_constructor.png  used on input line 245.
 (pdftex.def)             Requested size: 455.24411pt x 189.14244pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 235.
+Package pdftex.def Info: ./../img//espe.png  used on input line 249.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 235.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 249.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [4 <./../img//compute_apothem.png>]
-<./../img//plot_hexagon.png, id=147, 1025.8325pt x 395.4775pt>
+<./../img//plot_hexagon.png, id=148, 1025.8325pt x 395.4775pt>
 File: ./../img//plot_hexagon.png Graphic file (type png)
 <use ./../img//plot_hexagon.png>
-Package pdftex.def Info: ./../img//plot_hexagon.png  used on input line 238.
+Package pdftex.def Info: ./../img//plot_hexagon.png  used on input line 252.
 (pdftex.def)             Requested size: 455.24411pt x 175.50719pt.
-<./../img//compute_rows.png, id=148, 967.615pt x 146.5475pt>
+<./../img//compute_rows.png, id=149, 967.615pt x 146.5475pt>
 File: ./../img//compute_rows.png Graphic file (type png)
 <use ./../img//compute_rows.png>
-Package pdftex.def Info: ./../img//compute_rows.png  used on input line 247.
+Package pdftex.def Info: ./../img//compute_rows.png  used on input line 261.
 (pdftex.def)             Requested size: 455.24411pt x 68.94887pt.
-<./../img//bee_panel_constructor.png, id=149, 1503.6175pt x 427.5975pt>
+<./../img//bee_panel_constructor.png, id=150, 1503.6175pt x 427.5975pt>
 File: ./../img//bee_panel_constructor.png Graphic file (type png)
 <use ./../img//bee_panel_constructor.png>
-Package pdftex.def Info: ./../img//bee_panel_constructor.png  used on input line 254.
+Package pdftex.def Info: ./../img//bee_panel_constructor.png  used on input line 268.
 (pdftex.def)             Requested size: 455.24411pt x 129.46118pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 258.
+Package pdftex.def Info: ./../img//espe.png  used on input line 272.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 258.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 272.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [5 <./../img//hexagon_constructor.png> <./../img//plot_hexagon.png> <./../img//compute_rows.png>]
-<./../img//plot_bee_panel.png, id=160, 1025.8325pt x 208.78pt>
+<./../img//plot_bee_panel.png, id=161, 1025.8325pt x 208.78pt>
 File: ./../img//plot_bee_panel.png Graphic file (type png)
 <use ./../img//plot_bee_panel.png>
-Package pdftex.def Info: ./../img//plot_bee_panel.png  used on input line 261.
+Package pdftex.def Info: ./../img//plot_bee_panel.png  used on input line 275.
 (pdftex.def)             Requested size: 455.24411pt x 92.65352pt.
-<./../img//button_plot_bee_panel.png, id=161, 1069.9975pt x 457.71pt>
+<./../img//button_plot_bee_panel.png, id=162, 1069.9975pt x 457.71pt>
 File: ./../img//button_plot_bee_panel.png Graphic file (type png)
 <use ./../img//button_plot_bee_panel.png>
-Package pdftex.def Info: ./../img//button_plot_bee_panel.png  used on input line 270.
+Package pdftex.def Info: ./../img//button_plot_bee_panel.png  used on input line 284.
 (pdftex.def)             Requested size: 455.24411pt x 194.7372pt.
-<./../img//program_execution.png, id=163, 599.99156pt x 356.83313pt>
+<./../img//program_execution.png, id=164, 599.99156pt x 356.83313pt>
 File: ./../img//program_execution.png Graphic file (type png)
 <use ./../img//program_execution.png>
-Package pdftex.def Info: ./../img//program_execution.png  used on input line 280.
+Package pdftex.def Info: ./../img//program_execution.png  used on input line 294.
 (pdftex.def)             Requested size: 455.24411pt x 270.75496pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 284.
+Package pdftex.def Info: ./../img//espe.png  used on input line 298.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 284.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 298.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [6 <./../img//bee_panel_constructor.png> <./../img//plot_bee_panel.png> <./../img//button_plot_bee_panel.png>]
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 287.
+Package pdftex.def Info: ./../img//espe.png  used on input line 301.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 287.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 301.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
- [7 <./../img//program_execution.png>] (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\doc\report\build\main.aux
+ [7 <./../img//program_execution.png>] (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\BeePanel\doc\report\build\main.aux
 LaTeX Info: Redefining \sptext on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
@@ -896,17 +900,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20127 strings out of 476331
- 359151 string characters out of 5787765
+ 20126 strings out of 476331
+ 359373 string characters out of 5787765
  1866660 words of memory out of 5000000
- 40270 multiletter control sequences out of 15000+600000
+ 40269 multiletter control sequences out of 15000+600000
  518375 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,17n,76p,1240b,2811s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\BeePanel\doc\report\build\main.pdf" (8 pages, 792859 bytes).
+ 75i,17n,76p,1255b,2811s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\BeePanel\doc\report\build\main.pdf" (8 pages, 785652 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
+ 243 PDF objects out of 1000 (max. 8388607)
  60 named destinations out of 1000 (max. 500000)
- 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 203 words of extra memory for PDF output out of 10000 (max. 10000000)
 

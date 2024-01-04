@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.31)  1 JAN 2024 10:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.31)  3 JAN 2024 22:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Documents/University/Nivel 5/Computacion Grafica/Primer parcial/Trabajos grupales/StarPentagon/doc/report/src/main.tex"
-(d:/Documents/University/Nivel 5/Computacion Grafica/Primer parcial/Trabajos grupales/StarPentagon/doc/report/src/main.tex
+**"d:/Documents/University/Nivel 5/Computacion Grafica/Primer parcial/Trabajos grupales/TrabajoGrafica/StarPentagon/doc/report/src/main.tex"
+(d:/Documents/University/Nivel 5/Computacion Grafica/Primer parcial/Trabajos grupales/TrabajoGrafica/StarPentagon/doc/report/src/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -402,30 +402,30 @@ Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count307
 \l__pdf_internal_box=\box102
-) (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.aux
+) (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -461,10 +461,10 @@ LaTeX Font Info:    ... okay on input line 33.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 33.
-LaTeX Info: Redefining \% on input line 33.
-Package hyperref Info: Link coloring OFF on input line 33.
-(d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out) (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out)
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+Package hyperref Info: Link coloring OFF on input line 47.
+(d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out) (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -487,301 +487,286 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+<./../img//espe.png, id=139, 803.0pt x 301.125pt>
+File: ./../img//espe.png Graphic file (type png)
+<use ./../img//espe.png>
+Package pdftex.def Info: ./../img//espe.png  used on input line 52.
+(pdftex.def)             Requested size: 240.90186pt x 90.33818pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
  (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
  (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/alexa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<./../img//star_pentagon.png, id=148, 393.72093pt x 377.91188pt>
+{C:/Users/alexa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./../img//espe.png>]
+<./../img//star_pentagon.png, id=153, 393.72093pt x 377.91188pt>
 File: ./../img//star_pentagon.png Graphic file (type png)
 <use ./../img//star_pentagon.png>
-Package pdftex.def Info: ./../img//star_pentagon.png  used on input line 45.
+Package pdftex.def Info: ./../img//star_pentagon.png  used on input line 59.
 (pdftex.def)             Requested size: 196.85999pt x 188.95547pt.
-<./../img//pentagon.png, id=151, 458.46281pt x 457.71pt>
+<./../img//pentagon.png, id=155, 458.46281pt x 457.71pt>
 File: ./../img//pentagon.png Graphic file (type png)
 <use ./../img//pentagon.png>
-Package pdftex.def Info: ./../img//pentagon.png  used on input line 56.
+Package pdftex.def Info: ./../img//pentagon.png  used on input line 70.
 (pdftex.def)             Requested size: 229.23083pt x 228.85445pt.
-<./../img//espe.png, id=152, 803.0pt x 301.125pt>
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 62.
+Package pdftex.def Info: ./../img//espe.png  used on input line 76.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
-<./../img//ciencias_de_computacion.jpg, id=153, 903.375pt x 903.375pt>
+<./../img//ciencias_de_computacion.jpg, id=156, 903.375pt x 903.375pt>
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 62.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 76.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.62 
-      [1 <./../img//espe.png> <./../img//ciencias_de_computacion.jpg> <./../img//star_pentagon.png> <./../img//pentagon.png>]
-<./../img//internal_triangle.png, id=165, 185.19188pt x 165.61874pt>
+l.76 
+      [1 <./../img//ciencias_de_computacion.jpg> <./../img//star_pentagon.png> <./../img//pentagon.png>]
+<./../img//internal_triangle.png, id=166, 185.19188pt x 165.61874pt>
 File: ./../img//internal_triangle.png Graphic file (type png)
 <use ./../img//internal_triangle.png>
-Package pdftex.def Info: ./../img//internal_triangle.png  used on input line 65.
+Package pdftex.def Info: ./../img//internal_triangle.png  used on input line 79.
 (pdftex.def)             Requested size: 92.5957pt x 82.80916pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 120.
+Package pdftex.def Info: ./../img//espe.png  used on input line 134.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 120.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 134.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [2 <./../img//internal_triangle.png>]
-<./../img//vertical_pentagon.png, id=193, 510.40688pt x 502.12593pt>
+<./../img//vertical_pentagon.png, id=194, 510.40688pt x 502.12593pt>
 File: ./../img//vertical_pentagon.png Graphic file (type png)
 <use ./../img//vertical_pentagon.png>
-Package pdftex.def Info: ./../img//vertical_pentagon.png  used on input line 156.
+Package pdftex.def Info: ./../img//vertical_pentagon.png  used on input line 170.
 (pdftex.def)             Requested size: 255.2028pt x 251.06235pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 160.
+Package pdftex.def Info: ./../img//espe.png  used on input line 174.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 160.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 174.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [3]
-<./../img//pentagon_tilted_left.png, id=205, 482.55281pt x 479.54156pt>
+<./../img//pentagon_tilted_left.png, id=206, 482.55281pt x 479.54156pt>
 File: ./../img//pentagon_tilted_left.png Graphic file (type png)
 <use ./../img//pentagon_tilted_left.png>
-Package pdftex.def Info: ./../img//pentagon_tilted_left.png  used on input line 173.
+Package pdftex.def Info: ./../img//pentagon_tilted_left.png  used on input line 187.
 (pdftex.def)             Requested size: 241.2758pt x 239.77019pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 184.
+Package pdftex.def Info: ./../img//espe.png  used on input line 198.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 184.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 198.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [4 <./../img//vertical_pentagon.png> <./../img//pentagon_tilted_left.png>]
-<./../img//center_pentagon.png, id=222, 547.2947pt x 516.42938pt>
+<./../img//center_pentagon.png, id=223, 547.2947pt x 516.42938pt>
 File: ./../img//center_pentagon.png Graphic file (type png)
 <use ./../img//center_pentagon.png>
-Package pdftex.def Info: ./../img//center_pentagon.png  used on input line 215.
+Package pdftex.def Info: ./../img//center_pentagon.png  used on input line 229.
 (pdftex.def)             Requested size: 273.64667pt x 258.21405pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 225.
+Package pdftex.def Info: ./../img//espe.png  used on input line 239.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 225.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 239.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [5 <./../img//center_pentagon.png>]
-<./../img//union_external_to_internal_pentagons.png, id=239, 542.025pt x 516.42938pt>
+<./../img//union_external_to_internal_pentagons.png, id=240, 542.025pt x 516.42938pt>
 File: ./../img//union_external_to_internal_pentagons.png Graphic file (type png)
 <use ./../img//union_external_to_internal_pentagons.png>
-Package pdftex.def Info: ./../img//union_external_to_internal_pentagons.png  used on input line 253.
+Package pdftex.def Info: ./../img//union_external_to_internal_pentagons.png  used on input line 267.
 (pdftex.def)             Requested size: 271.01183pt x 258.21405pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 281.
+Package pdftex.def Info: ./../img//espe.png  used on input line 295.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 281.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 295.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [6 <./../img//union_external_to_internal_pentagons.png>]
-<./../img//vertex_to_median_connection.png, id=254, 510.40688pt x 504.38437pt>
+<./../img//vertex_to_median_connection.png, id=255, 510.40688pt x 504.38437pt>
 File: ./../img//vertex_to_median_connection.png Graphic file (type png)
 <use ./../img//vertex_to_median_connection.png>
-Package pdftex.def Info: ./../img//vertex_to_median_connection.png  used on input line 287.
+Package pdftex.def Info: ./../img//vertex_to_median_connection.png  used on input line 301.
 (pdftex.def)             Requested size: 255.2028pt x 252.19156pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 335.
+Package pdftex.def Info: ./../img//espe.png  used on input line 349.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 335.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 349.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [7 <./../img//vertex_to_median_connection.png>]
-<./../img//five_pointed_star.png, id=268, 442.65375pt x 440.39531pt>
+<./../img//five_pointed_star.png, id=269, 442.65375pt x 440.39531pt>
 File: ./../img//five_pointed_star.png Graphic file (type png)
 <use ./../img//five_pointed_star.png>
-Package pdftex.def Info: ./../img//five_pointed_star.png  used on input line 338.
+Package pdftex.def Info: ./../img//five_pointed_star.png  used on input line 352.
 (pdftex.def)             Requested size: 221.32632pt x 220.19711pt.
-<./../img//five_pointed_star_translated.png, id=271, 439.6425pt x 514.17094pt>
+<./../img//five_pointed_star_translated.png, id=272, 439.6425pt x 514.17094pt>
 File: ./../img//five_pointed_star_translated.png Graphic file (type png)
 <use ./../img//five_pointed_star_translated.png>
-Package pdftex.def Info: ./../img//five_pointed_star_translated.png  used on input line 361.
+Package pdftex.def Info: ./../img//five_pointed_star_translated.png  used on input line 375.
 (pdftex.def)             Requested size: 219.82071pt x 257.08484pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 365.
+Package pdftex.def Info: ./../img//espe.png  used on input line 379.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 365.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 379.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [8 <./../img//five_pointed_star.png>]
-<./../img//five_pointed_star_center.png, id=282, 491.58656pt x 489.32813pt>
+<./../img//five_pointed_star_center.png, id=283, 491.58656pt x 489.32813pt>
 File: ./../img//five_pointed_star_center.png Graphic file (type png)
 <use ./../img//five_pointed_star_center.png>
-Package pdftex.def Info: ./../img//five_pointed_star_center.png  used on input line 389.
+Package pdftex.def Info: ./../img//five_pointed_star_center.png  used on input line 403.
 (pdftex.def)             Requested size: 245.79268pt x 244.66345pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 393.
+Package pdftex.def Info: ./../img//espe.png  used on input line 407.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 393.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 407.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [9 <./../img//five_pointed_star_translated.png>]
-<./../img//star_union_to_median.png, id=294, 507.39563pt x 503.63156pt>
+<./../img//star_union_to_median.png, id=295, 507.39563pt x 503.63156pt>
 File: ./../img//star_union_to_median.png Graphic file (type png)
 <use ./../img//star_union_to_median.png>
-Package pdftex.def Info: ./../img//star_union_to_median.png  used on input line 406.
+Package pdftex.def Info: ./../img//star_union_to_median.png  used on input line 420.
 (pdftex.def)             Requested size: 253.69719pt x 251.81516pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 413.
+Package pdftex.def Info: ./../img//espe.png  used on input line 427.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 413.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 427.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [10 <./../img//five_pointed_star_center.png> <./../img//star_union_to_median.png>]
-<./../img//star_union_to_median_intersections.png, id=304, 505.13719pt x 504.38437pt>
+<./../img//star_union_to_median_intersections.png, id=305, 505.13719pt x 504.38437pt>
 File: ./../img//star_union_to_median_intersections.png Graphic file (type png)
 <use ./../img//star_union_to_median_intersections.png>
-Package pdftex.def Info: ./../img//star_union_to_median_intersections.png  used on input line 440.
+Package pdftex.def Info: ./../img//star_union_to_median_intersections.png  used on input line 454.
 (pdftex.def)             Requested size: 252.56798pt x 252.19156pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 484.
+Package pdftex.def Info: ./../img//espe.png  used on input line 498.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 484.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 498.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [11 <./../img//star_union_to_median_intersections.png>]
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 549.
+Package pdftex.def Info: ./../img//espe.png  used on input line 563.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 549.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 563.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [12]
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 601.
+Package pdftex.def Info: ./../img//espe.png  used on input line 615.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 601.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 615.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [13]
-<./../img//angle_class.png, id=388, 997.7275pt x 208.78pt>
+<./../img//angle_class.png, id=389, 997.7275pt x 208.78pt>
 File: ./../img//angle_class.png Graphic file (type png)
 <use ./../img//angle_class.png>
-Package pdftex.def Info: ./../img//angle_class.png  used on input line 647.
+Package pdftex.def Info: ./../img//angle_class.png  used on input line 661.
 (pdftex.def)             Requested size: 455.24411pt x 95.26263pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 651.
+Package pdftex.def Info: ./../img//espe.png  used on input line 665.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 651.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 665.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [14]
-<./../img//straight_line_class.png, id=416, 1359.0775pt x 552.0625pt>
+<./../img//straight_line_class.png, id=417, 1359.0775pt x 552.0625pt>
 File: ./../img//straight_line_class.png Graphic file (type png)
 <use ./../img//straight_line_class.png>
-Package pdftex.def Info: ./../img//straight_line_class.png  used on input line 656.
+Package pdftex.def Info: ./../img//straight_line_class.png  used on input line 670.
 (pdftex.def)             Requested size: 455.24411pt x 184.91891pt.
-<./../img//pentagon_constructor.png, id=417, 2055.68pt x 489.83pt>
+<./../img//pentagon_constructor.png, id=418, 2055.68pt x 489.83pt>
 File: ./../img//pentagon_constructor.png Graphic file (type png)
 <use ./../img//pentagon_constructor.png>
-Package pdftex.def Info: ./../img//pentagon_constructor.png  used on input line 665.
+Package pdftex.def Info: ./../img//pentagon_constructor.png  used on input line 679.
 (pdftex.def)             Requested size: 455.24411pt x 108.47298pt.
-<./../img//compute_side.png, id=418, 1274.7625pt x 178.6675pt>
+<./../img//compute_side.png, id=419, 1274.7625pt x 178.6675pt>
 File: ./../img//compute_side.png Graphic file (type png)
 <use ./../img//compute_side.png>
-Package pdftex.def Info: ./../img//compute_side.png  used on input line 672.
+Package pdftex.def Info: ./../img//compute_side.png  used on input line 686.
 (pdftex.def)             Requested size: 455.24411pt x 63.80498pt.
-<./../img//compute_medians.png, id=419, 1174.3875pt x 427.5975pt>
+<./../img//compute_medians.png, id=420, 1174.3875pt x 427.5975pt>
 File: ./../img//compute_medians.png Graphic file (type png)
 <use ./../img//compute_medians.png>
-Package pdftex.def Info: ./../img//compute_medians.png  used on input line 679.
+Package pdftex.def Info: ./../img//compute_medians.png  used on input line 693.
 (pdftex.def)             Requested size: 455.24411pt x 165.75104pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 683.
+Package pdftex.def Info: ./../img//espe.png  used on input line 697.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 683.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 697.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [15 <./../img//angle_class.png> <./../img//straight_line_class.png> <./../img//pentagon_constructor.png> <./../img//compute_side.png>]
-<./../img//compute_median_intersections.png, id=432, 1102.1175pt x 427.5975pt>
+<./../img//compute_median_intersections.png, id=433, 1102.1175pt x 427.5975pt>
 File: ./../img//compute_median_intersections.png Graphic file (type png)
 <use ./../img//compute_median_intersections.png>
-Package pdftex.def Info: ./../img//compute_median_intersections.png  used on input line 686.
+Package pdftex.def Info: ./../img//compute_median_intersections.png  used on input line 700.
 (pdftex.def)             Requested size: 455.24411pt x 176.62755pt.
-<./../img//plot_pentagon.png, id=433, 851.18pt x 333.245pt>
+<./../img//plot_pentagon.png, id=434, 851.18pt x 333.245pt>
 File: ./../img//plot_pentagon.png Graphic file (type png)
 <use ./../img//plot_pentagon.png>
-Package pdftex.def Info: ./../img//plot_pentagon.png  used on input line 693.
+Package pdftex.def Info: ./../img//plot_pentagon.png  used on input line 707.
 (pdftex.def)             Requested size: 455.24411pt x 178.236pt.
-<./../img//plot_internal_star.png, id=434, 911.405pt x 427.5975pt>
+<./../img//plot_internal_star.png, id=435, 911.405pt x 427.5975pt>
 File: ./../img//plot_internal_star.png Graphic file (type png)
 <use ./../img//plot_internal_star.png>
-Package pdftex.def Info: ./../img//plot_internal_star.png  used on input line 700.
+Package pdftex.def Info: ./../img//plot_internal_star.png  used on input line 714.
 (pdftex.def)             Requested size: 455.24411pt x 213.58943pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 704.
+Package pdftex.def Info: ./../img//espe.png  used on input line 718.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 704.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 718.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
  [16 <./../img//compute_medians.png> <./../img//compute_median_intersections.png> <./../img//plot_pentagon.png>]
-<./../img//compute_centered_pentagon.png, id=445, 1084.05pt x 457.71pt>
+<./../img//compute_centered_pentagon.png, id=446, 1084.05pt x 457.71pt>
 File: ./../img//compute_centered_pentagon.png Graphic file (type png)
 <use ./../img//compute_centered_pentagon.png>
-Package pdftex.def Info: ./../img//compute_centered_pentagon.png  used on input line 709.
+Package pdftex.def Info: ./../img//compute_centered_pentagon.png  used on input line 723.
 (pdftex.def)             Requested size: 455.24411pt x 192.21594pt.
-<./../img//compute_star_pentagon.png, id=446, 1049.9225pt x 674.52pt>
+<./../img//compute_star_pentagon.png, id=447, 1049.9225pt x 674.52pt>
 File: ./../img//compute_star_pentagon.png Graphic file (type png)
 <use ./../img//compute_star_pentagon.png>
-Package pdftex.def Info: ./../img//compute_star_pentagon.png  used on input line 716.
+Package pdftex.def Info: ./../img//compute_star_pentagon.png  used on input line 730.
 (pdftex.def)             Requested size: 455.24411pt x 292.46693pt.
-File: ./../img//espe.png Graphic file (type png)
-<use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 720.
-(pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
-File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
-<use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 720.
-(pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
- [17 <./../img//plot_internal_star.png> <./../img//compute_centered_pentagon.png>]
-<./../img//connect_pentagons_vertices.png, id=455, 1049.9225pt x 489.83pt>
-File: ./../img//connect_pentagons_vertices.png Graphic file (type png)
-<use ./../img//connect_pentagons_vertices.png>
-Package pdftex.def Info: ./../img//connect_pentagons_vertices.png  used on input line 723.
-(pdftex.def)             Requested size: 455.24411pt x 212.3867pt.
-<./../img//draw_medians.png, id=456, 1049.9225pt x 457.71pt>
-File: ./../img//draw_medians.png Graphic file (type png)
-<use ./../img//draw_medians.png>
-Package pdftex.def Info: ./../img//draw_medians.png  used on input line 730.
-(pdftex.def)             Requested size: 455.24411pt x 198.4597pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
 Package pdftex.def Info: ./../img//espe.png  used on input line 734.
@@ -790,17 +775,17 @@ File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
 Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 734.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
- [18 <./../img//compute_star_pentagon.png> <./../img//connect_pentagons_vertices.png>]
-<./../img//connect_medians_and_vertices.png, id=466, 1049.9225pt x 427.5975pt>
-File: ./../img//connect_medians_and_vertices.png Graphic file (type png)
-<use ./../img//connect_medians_and_vertices.png>
-Package pdftex.def Info: ./../img//connect_medians_and_vertices.png  used on input line 737.
-(pdftex.def)             Requested size: 455.24411pt x 185.40314pt.
-<./../img//connect_median_intersections_and_points.png, id=467, 957.5775pt x 519.9425pt>
-File: ./../img//connect_median_intersections_and_points.png Graphic file (type png)
-<use ./../img//connect_median_intersections_and_points.png>
-Package pdftex.def Info: ./../img//connect_median_intersections_and_points.png  used on input line 744.
-(pdftex.def)             Requested size: 455.24411pt x 247.18947pt.
+ [17 <./../img//plot_internal_star.png> <./../img//compute_centered_pentagon.png>]
+<./../img//connect_pentagons_vertices.png, id=456, 1049.9225pt x 489.83pt>
+File: ./../img//connect_pentagons_vertices.png Graphic file (type png)
+<use ./../img//connect_pentagons_vertices.png>
+Package pdftex.def Info: ./../img//connect_pentagons_vertices.png  used on input line 737.
+(pdftex.def)             Requested size: 455.24411pt x 212.3867pt.
+<./../img//draw_medians.png, id=457, 1049.9225pt x 457.71pt>
+File: ./../img//draw_medians.png Graphic file (type png)
+<use ./../img//draw_medians.png>
+Package pdftex.def Info: ./../img//draw_medians.png  used on input line 744.
+(pdftex.def)             Requested size: 455.24411pt x 198.4597pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
 Package pdftex.def Info: ./../img//espe.png  used on input line 748.
@@ -809,17 +794,17 @@ File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
 Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 748.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
- [19 <./../img//draw_medians.png> <./../img//connect_medians_and_vertices.png>]
-<./../img//star_polygon_constructor.png, id=476, 903.375pt x 489.83pt>
-File: ./../img//star_polygon_constructor.png Graphic file (type png)
-<use ./../img//star_polygon_constructor.png>
-Package pdftex.def Info: ./../img//star_polygon_constructor.png  used on input line 751.
-(pdftex.def)             Requested size: 455.24411pt x 246.8502pt.
-<./../img//plot_star_polygon.png, id=477, 939.51pt x 365.365pt>
-File: ./../img//plot_star_polygon.png Graphic file (type png)
-<use ./../img//plot_star_polygon.png>
-Package pdftex.def Info: ./../img//plot_star_polygon.png  used on input line 758.
-(pdftex.def)             Requested size: 455.24411pt x 177.04013pt.
+ [18 <./../img//compute_star_pentagon.png> <./../img//connect_pentagons_vertices.png>]
+<./../img//connect_medians_and_vertices.png, id=467, 1049.9225pt x 427.5975pt>
+File: ./../img//connect_medians_and_vertices.png Graphic file (type png)
+<use ./../img//connect_medians_and_vertices.png>
+Package pdftex.def Info: ./../img//connect_medians_and_vertices.png  used on input line 751.
+(pdftex.def)             Requested size: 455.24411pt x 185.40314pt.
+<./../img//connect_median_intersections_and_points.png, id=468, 957.5775pt x 519.9425pt>
+File: ./../img//connect_median_intersections_and_points.png Graphic file (type png)
+<use ./../img//connect_median_intersections_and_points.png>
+Package pdftex.def Info: ./../img//connect_median_intersections_and_points.png  used on input line 758.
+(pdftex.def)             Requested size: 455.24411pt x 247.18947pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
 Package pdftex.def Info: ./../img//espe.png  used on input line 762.
@@ -828,26 +813,45 @@ File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
 Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 762.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
- [20 <./../img//connect_median_intersections_and_points.png> <./../img//star_polygon_constructor.png>]
-<./../img//button_plot_shape.png, id=486, 1328.965pt x 519.9425pt>
-File: ./../img//button_plot_shape.png Graphic file (type png)
-<use ./../img//button_plot_shape.png>
-Package pdftex.def Info: ./../img//button_plot_shape.png  used on input line 767.
-(pdftex.def)             Requested size: 455.24411pt x 178.11096pt.
-<./../img//program_execution.png, id=487, 599.99156pt x 356.83313pt>
-File: ./../img//program_execution.png Graphic file (type png)
-<use ./../img//program_execution.png>
-Package pdftex.def Info: ./../img//program_execution.png  used on input line 776.
-(pdftex.def)             Requested size: 299.99504pt x 178.41612pt.
+ [19 <./../img//draw_medians.png> <./../img//connect_medians_and_vertices.png>]
+<./../img//star_polygon_constructor.png, id=477, 903.375pt x 489.83pt>
+File: ./../img//star_polygon_constructor.png Graphic file (type png)
+<use ./../img//star_polygon_constructor.png>
+Package pdftex.def Info: ./../img//star_polygon_constructor.png  used on input line 765.
+(pdftex.def)             Requested size: 455.24411pt x 246.8502pt.
+<./../img//plot_star_polygon.png, id=478, 939.51pt x 365.365pt>
+File: ./../img//plot_star_polygon.png Graphic file (type png)
+<use ./../img//plot_star_polygon.png>
+Package pdftex.def Info: ./../img//plot_star_polygon.png  used on input line 772.
+(pdftex.def)             Requested size: 455.24411pt x 177.04013pt.
 File: ./../img//espe.png Graphic file (type png)
 <use ./../img//espe.png>
-Package pdftex.def Info: ./../img//espe.png  used on input line 781.
+Package pdftex.def Info: ./../img//espe.png  used on input line 776.
 (pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
 File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
 <use ./../img//ciencias_de_computacion.jpg>
-Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 781.
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 776.
 (pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
- [21 <./../img//plot_star_polygon.png> <./../img//button_plot_shape.png> <./../img//program_execution.png>] (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.aux
+ [20 <./../img//connect_median_intersections_and_points.png> <./../img//star_polygon_constructor.png>]
+<./../img//button_plot_shape.png, id=487, 1328.965pt x 519.9425pt>
+File: ./../img//button_plot_shape.png Graphic file (type png)
+<use ./../img//button_plot_shape.png>
+Package pdftex.def Info: ./../img//button_plot_shape.png  used on input line 781.
+(pdftex.def)             Requested size: 455.24411pt x 178.11096pt.
+<./../img//program_execution.png, id=488, 599.99156pt x 356.83313pt>
+File: ./../img//program_execution.png Graphic file (type png)
+<use ./../img//program_execution.png>
+Package pdftex.def Info: ./../img//program_execution.png  used on input line 790.
+(pdftex.def)             Requested size: 299.99504pt x 178.41612pt.
+File: ./../img//espe.png Graphic file (type png)
+<use ./../img//espe.png>
+Package pdftex.def Info: ./../img//espe.png  used on input line 795.
+(pdftex.def)             Requested size: 120.4448pt x 45.1668pt.
+File: ./../img//ciencias_de_computacion.jpg Graphic file (type jpg)
+<use ./../img//ciencias_de_computacion.jpg>
+Package pdftex.def Info: ./../img//ciencias_de_computacion.jpg  used on input line 795.
+(pdftex.def)             Requested size: 45.17139pt x 45.17139pt.
+ [21 <./../img//plot_star_polygon.png> <./../img//button_plot_shape.png> <./../img//program_execution.png>] (d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -855,17 +859,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 2A2FAFC3DAF88D47EAF6BCD16EABAE48;7167.
  ) 
 Here is how much of TeX's memory you used:
- 13311 strings out of 476331
- 218027 string characters out of 5787765
+ 13310 strings out of 476331
+ 218219 string characters out of 5787765
  1867660 words of memory out of 5000000
- 33351 multiletter control sequences out of 15000+600000
+ 33350 multiletter control sequences out of 15000+600000
  520547 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,19n,76p,912b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.pdf" (22 pages, 2084319 bytes).
+ 75i,19n,76p,927b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "d:/Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.pdf" (22 pages, 2075866 bytes).
 PDF statistics:
- 599 PDF objects out of 1000 (max. 8388607)
+ 596 PDF objects out of 1000 (max. 8388607)
  189 named destinations out of 1000 (max. 500000)
- 444 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 450 words of extra memory for PDF output out of 10000 (max. 10000000)
 

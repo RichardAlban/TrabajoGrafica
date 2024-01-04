@@ -1,7 +1,7 @@
-PWD d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\src
+PWD d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\src
 INPUT C:\Users\alexa\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\src\main.tex
-OUTPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.log
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\src\main.tex
+OUTPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.log
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -621,22 +621,22 @@ INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.aux
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.aux
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.aux
-OUTPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.aux
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-OUTPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.pdf
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-OUTPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.aux
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.aux
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.aux
+OUTPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.aux
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+OUTPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.pdf
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+OUTPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -657,6 +657,14 @@ INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT ..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT .\..\img\\espe.png
+INPUT .\..\img\\espe.png
+INPUT .\..\img\\espe.png
+INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
@@ -683,9 +691,8 @@ INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\alexa\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\alexa\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
@@ -694,330 +701,326 @@ INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\star_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\star_pentagon.png
 INPUT ..\img\\star_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\star_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\star_pentagon.png
 INPUT .\..\img\\star_pentagon.png
 INPUT .\..\img\\star_pentagon.png
 INPUT .\..\img\\star_pentagon.png
-INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\pentagon.png
 INPUT ..\img\\pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\pentagon.png
 INPUT .\..\img\\pentagon.png
 INPUT .\..\img\\pentagon.png
 INPUT .\..\img\\pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT .\..\img\\espe.png
-INPUT .\..\img\\espe.png
-INPUT .\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT .\..\img\\ciencias_de_computacion.jpg
 INPUT .\..\img\\ciencias_de_computacion.jpg
 INPUT .\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\internal_triangle.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\internal_triangle.png
 INPUT ..\img\\internal_triangle.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\internal_triangle.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\internal_triangle.png
 INPUT .\..\img\\internal_triangle.png
 INPUT .\..\img\\internal_triangle.png
 INPUT .\..\img\\internal_triangle.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\vertical_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\vertical_pentagon.png
 INPUT ..\img\\vertical_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\vertical_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\vertical_pentagon.png
 INPUT .\..\img\\vertical_pentagon.png
 INPUT .\..\img\\vertical_pentagon.png
 INPUT .\..\img\\vertical_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\pentagon_tilted_left.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\pentagon_tilted_left.png
 INPUT ..\img\\pentagon_tilted_left.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\pentagon_tilted_left.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\pentagon_tilted_left.png
 INPUT .\..\img\\pentagon_tilted_left.png
 INPUT .\..\img\\pentagon_tilted_left.png
 INPUT .\..\img\\pentagon_tilted_left.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\center_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\center_pentagon.png
 INPUT ..\img\\center_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\center_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\center_pentagon.png
 INPUT .\..\img\\center_pentagon.png
 INPUT .\..\img\\center_pentagon.png
 INPUT .\..\img\\center_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\union_external_to_internal_pentagons.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\union_external_to_internal_pentagons.png
 INPUT ..\img\\union_external_to_internal_pentagons.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\union_external_to_internal_pentagons.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\union_external_to_internal_pentagons.png
 INPUT .\..\img\\union_external_to_internal_pentagons.png
 INPUT .\..\img\\union_external_to_internal_pentagons.png
 INPUT .\..\img\\union_external_to_internal_pentagons.png
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\vertex_to_median_connection.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\vertex_to_median_connection.png
 INPUT ..\img\\vertex_to_median_connection.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\vertex_to_median_connection.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\vertex_to_median_connection.png
 INPUT .\..\img\\vertex_to_median_connection.png
 INPUT .\..\img\\vertex_to_median_connection.png
 INPUT .\..\img\\vertex_to_median_connection.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\five_pointed_star.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\five_pointed_star.png
 INPUT ..\img\\five_pointed_star.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\five_pointed_star.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\five_pointed_star.png
 INPUT .\..\img\\five_pointed_star.png
 INPUT .\..\img\\five_pointed_star.png
 INPUT .\..\img\\five_pointed_star.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\five_pointed_star_translated.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\five_pointed_star_translated.png
 INPUT ..\img\\five_pointed_star_translated.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\five_pointed_star_translated.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\five_pointed_star_translated.png
 INPUT .\..\img\\five_pointed_star_translated.png
 INPUT .\..\img\\five_pointed_star_translated.png
 INPUT .\..\img\\five_pointed_star_translated.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\five_pointed_star_center.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\five_pointed_star_center.png
 INPUT ..\img\\five_pointed_star_center.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\five_pointed_star_center.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\five_pointed_star_center.png
 INPUT .\..\img\\five_pointed_star_center.png
 INPUT .\..\img\\five_pointed_star_center.png
 INPUT .\..\img\\five_pointed_star_center.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\star_union_to_median.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\star_union_to_median.png
 INPUT ..\img\\star_union_to_median.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\star_union_to_median.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\star_union_to_median.png
 INPUT .\..\img\\star_union_to_median.png
 INPUT .\..\img\\star_union_to_median.png
 INPUT .\..\img\\star_union_to_median.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\star_union_to_median_intersections.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\star_union_to_median_intersections.png
 INPUT ..\img\\star_union_to_median_intersections.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\star_union_to_median_intersections.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\star_union_to_median_intersections.png
 INPUT .\..\img\\star_union_to_median_intersections.png
 INPUT .\..\img\\star_union_to_median_intersections.png
 INPUT .\..\img\\star_union_to_median_intersections.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\angle_class.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\angle_class.png
 INPUT ..\img\\angle_class.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\angle_class.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\angle_class.png
 INPUT .\..\img\\angle_class.png
 INPUT .\..\img\\angle_class.png
 INPUT .\..\img\\angle_class.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\straight_line_class.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\straight_line_class.png
 INPUT ..\img\\straight_line_class.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\straight_line_class.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\straight_line_class.png
 INPUT .\..\img\\straight_line_class.png
 INPUT .\..\img\\straight_line_class.png
 INPUT .\..\img\\straight_line_class.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\pentagon_constructor.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\pentagon_constructor.png
 INPUT ..\img\\pentagon_constructor.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\pentagon_constructor.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\pentagon_constructor.png
 INPUT .\..\img\\pentagon_constructor.png
 INPUT .\..\img\\pentagon_constructor.png
 INPUT .\..\img\\pentagon_constructor.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_side.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_side.png
 INPUT ..\img\\compute_side.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_side.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_side.png
 INPUT .\..\img\\compute_side.png
 INPUT .\..\img\\compute_side.png
 INPUT .\..\img\\compute_side.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_medians.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_medians.png
 INPUT ..\img\\compute_medians.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_medians.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_medians.png
 INPUT .\..\img\\compute_medians.png
 INPUT .\..\img\\compute_medians.png
 INPUT .\..\img\\compute_medians.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_median_intersections.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_median_intersections.png
 INPUT ..\img\\compute_median_intersections.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_median_intersections.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_median_intersections.png
 INPUT .\..\img\\compute_median_intersections.png
 INPUT .\..\img\\compute_median_intersections.png
 INPUT .\..\img\\compute_median_intersections.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\plot_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\plot_pentagon.png
 INPUT ..\img\\plot_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\plot_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\plot_pentagon.png
 INPUT .\..\img\\plot_pentagon.png
 INPUT .\..\img\\plot_pentagon.png
 INPUT .\..\img\\plot_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\plot_internal_star.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\plot_internal_star.png
 INPUT ..\img\\plot_internal_star.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\plot_internal_star.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\plot_internal_star.png
 INPUT .\..\img\\plot_internal_star.png
 INPUT .\..\img\\plot_internal_star.png
 INPUT .\..\img\\plot_internal_star.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_centered_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_centered_pentagon.png
 INPUT ..\img\\compute_centered_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_centered_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_centered_pentagon.png
 INPUT .\..\img\\compute_centered_pentagon.png
 INPUT .\..\img\\compute_centered_pentagon.png
 INPUT .\..\img\\compute_centered_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_star_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_star_pentagon.png
 INPUT ..\img\\compute_star_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\compute_star_pentagon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\compute_star_pentagon.png
 INPUT .\..\img\\compute_star_pentagon.png
 INPUT .\..\img\\compute_star_pentagon.png
 INPUT .\..\img\\compute_star_pentagon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\connect_pentagons_vertices.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\connect_pentagons_vertices.png
 INPUT ..\img\\connect_pentagons_vertices.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\connect_pentagons_vertices.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\connect_pentagons_vertices.png
 INPUT .\..\img\\connect_pentagons_vertices.png
 INPUT .\..\img\\connect_pentagons_vertices.png
 INPUT .\..\img\\connect_pentagons_vertices.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\draw_medians.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\draw_medians.png
 INPUT ..\img\\draw_medians.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\draw_medians.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\draw_medians.png
 INPUT .\..\img\\draw_medians.png
 INPUT .\..\img\\draw_medians.png
 INPUT .\..\img\\draw_medians.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\connect_medians_and_vertices.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\connect_medians_and_vertices.png
 INPUT ..\img\\connect_medians_and_vertices.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\connect_medians_and_vertices.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\connect_medians_and_vertices.png
 INPUT .\..\img\\connect_medians_and_vertices.png
 INPUT .\..\img\\connect_medians_and_vertices.png
 INPUT .\..\img\\connect_medians_and_vertices.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\connect_median_intersections_and_points.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\connect_median_intersections_and_points.png
 INPUT ..\img\\connect_median_intersections_and_points.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\connect_median_intersections_and_points.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\connect_median_intersections_and_points.png
 INPUT .\..\img\\connect_median_intersections_and_points.png
 INPUT .\..\img\\connect_median_intersections_and_points.png
 INPUT .\..\img\\connect_median_intersections_and_points.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\star_polygon_constructor.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\star_polygon_constructor.png
 INPUT ..\img\\star_polygon_constructor.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\star_polygon_constructor.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\star_polygon_constructor.png
 INPUT .\..\img\\star_polygon_constructor.png
 INPUT .\..\img\\star_polygon_constructor.png
 INPUT .\..\img\\star_polygon_constructor.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\plot_star_polygon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\plot_star_polygon.png
 INPUT ..\img\\plot_star_polygon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\plot_star_polygon.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\plot_star_polygon.png
 INPUT .\..\img\\plot_star_polygon.png
 INPUT .\..\img\\plot_star_polygon.png
 INPUT .\..\img\\plot_star_polygon.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\button_plot_shape.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\button_plot_shape.png
 INPUT ..\img\\button_plot_shape.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\button_plot_shape.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\button_plot_shape.png
 INPUT .\..\img\\button_plot_shape.png
 INPUT .\..\img\\button_plot_shape.png
 INPUT .\..\img\\button_plot_shape.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\program_execution.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\program_execution.png
 INPUT ..\img\\program_execution.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\program_execution.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\program_execution.png
 INPUT .\..\img\\program_execution.png
 INPUT .\..\img\\program_execution.png
 INPUT .\..\img\\program_execution.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
 INPUT ..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\espe.png
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\espe.png
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
 INPUT ..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.aux
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
-INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\.\..\img\\ciencias_de_computacion.jpg
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.aux
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
+INPUT d:\Documents\University\Nivel 5\Computacion Grafica\Primer parcial\Trabajos grupales\TrabajoGrafica\StarPentagon\doc\report\build\main.out
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
@@ -1032,8 +1035,6 @@ INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\alexa\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
